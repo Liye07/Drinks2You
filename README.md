@@ -1,6 +1,6 @@
 # Drinks2You Prototype (First Year Group Project)
 
-##Project Overview  
+## Project Overview  
 This is a UI/UX prototype for an alcohol delivery app, similar to Uber Eats but for liquor.
 
 ### 🎨 Figma Prototype  

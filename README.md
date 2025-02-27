@@ -1,7 +1,9 @@
 # Drinks2You Prototype (First Year Group Project)
 
 ## Project Overview  
-This is a **UI/UX prototype** for an alcohol delivery app, similar to **Uber Eats**, but for liquor. This project was created as part of a first-year group assignment. The prototype showcases how the app works, allowing users to order alcoholic drinks for delivery.
+This is a **UI/UX prototype** for an alcohol delivery app, similar to **Uber Eats**, but for liquor. 
+
+This project was created as part of a first-year group assignment. The prototype showcases how the app works, allowing users to order alcoholic drinks for delivery.
 
 ---
 

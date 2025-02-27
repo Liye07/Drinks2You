@@ -10,7 +10,7 @@ The prototype showcases how the app works, allowing users to order alcoholic dri
 ---
 
 ## 🎨 Figma Prototype  
-You can explore the high-fidelity prototype by clicking the link below:
+You can access the high-fidelity prototype by clicking the link below:
 
 [**View the Prototype on Figma**](https://www.figma.com/proto/rlaLB5B3qNkdpWtWL7SIF3/Drinks2You-(Hi-Fi-Prototype-Main)?node-id=66-95&p=f&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=3%3A1080&embed-host=share)
 

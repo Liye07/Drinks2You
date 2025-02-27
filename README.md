@@ -12,12 +12,12 @@ The prototype showcases how the app works, allowing users to order alcoholic dri
 ## 🎨 Figma Prototype  
 You can access the high-fidelity prototype by clicking the link below:
 
-[**View the Prototype on Figma**](https://www.figma.com/proto/rlaLB5B3qNkdpWtWL7SIF3/Drinks2You-(Hi-Fi-Prototype-Main)?node-id=66-95&p=f&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=3%3A1080&embed-host=share)
+[**View the Prototype on Figma**](https://rebrand.ly/Drinks2You)
 
 ### Or see a preview below:
 
 <div>
-    <a href="https://www.figma.com/proto/rlaLB5B3qNkdpWtWL7SIF3/Drinks2You-(Hi-Fi-Prototype-Main)?node-id=66-95&p=f&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=3%3A1080&embed-host=share">
+    <a href="https://rebrand.ly/Drinks2You">
       <img style="max-width:300px;" src="https://github.com/Liye07/Drinks2You/blob/b1bb17cde41ee9c4178920eb940503472f4dd823/Drinks2YouPrototype.gif?raw=true">
     </a>
 </div>

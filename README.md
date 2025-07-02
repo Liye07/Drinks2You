@@ -18,7 +18,7 @@ You can access the high-fidelity prototype by clicking the link below:
 
 <div>
     <a href="https://rebrand.ly/Drinks2You">
-      <img style="max-width:300px; max-height:150px:" src="https://github.com/Liye07/Drinks2You/blob/b1bb17cde41ee9c4178920eb940503472f4dd823/Drinks2YouPrototype.gif?raw=true">
+      <img style="max-width:200px; max-height:100px:" src="https://github.com/Liye07/Drinks2You/blob/b1bb17cde41ee9c4178920eb940503472f4dd823/Drinks2YouPrototype.gif?raw=true">
     </a>
 </div>
 

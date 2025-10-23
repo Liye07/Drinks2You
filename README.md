@@ -26,7 +26,7 @@ You can access the high-fidelity prototype by clicking the link below:
 
 ## 🔧 Tools Used:
 - **Figma**: Used to design and create the interactive prototype.
-- **Wireframing**: We began with wireframes to plan the app’s layout and user flow.
+- **Balsamiq**: We began with wireframes to plan the app’s layout and user flow.
 
 ---
 
